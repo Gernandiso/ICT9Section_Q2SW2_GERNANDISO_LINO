@@ -2,8 +2,8 @@
  
   table, th, td {
 			width: 300px;
-	padding: 20px;
-	border: 20px solid:#fcba03;
+	padding: 200px;
+	border: 200px solid:#fcba03;
 	border-style: double dotted;
 	border-top: thick dashed black
 	border-bottom: thick dotted black;
